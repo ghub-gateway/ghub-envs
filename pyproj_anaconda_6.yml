@@ -1,0 +1,27 @@
+name: pyproj_anaconda_6
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - bzip2=1.0.8=h516909a_0
+  - ca-certificates=2019.6.16=hecc5488_0
+  - certifi=2019.6.16=py37_1
+  - libffi=3.2.1=he1b5a44_1006
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - ncurses=6.1=hf484d3e_1002
+  - openssl=1.1.1c=h516909a_0
+  - pip=19.2.1=py37_0
+  - proj4=6.1.0=he751ad9_2
+  - pyproj=2.2.1=py37hc44880f_0
+  - python=3.7.3=h33d41f4_1
+  - readline=8.0=hf8c457e_0
+  - setuptools=41.0.1=py37_0
+  - sqlite=3.29.0=hcee41ef_0
+  - tk=8.6.9=hed695b0_1002
+  - wheel=0.33.4=py37_0
+  - xz=5.2.4=h14c3975_1001
+  - zlib=1.2.11=h516909a_1005
+prefix: /apps/share64/debian7/anaconda/anaconda-6/envs/pyproj_anaconda_6
+

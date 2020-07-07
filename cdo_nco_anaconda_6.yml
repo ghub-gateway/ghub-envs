@@ -1,0 +1,53 @@
+name: cdo_nco_anaconda_6
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - bzip2=1.0.8=h516909a_0
+  - ca-certificates=2019.6.16=hecc5488_0
+  - cdo=1.9.6=ha44cbb3_1008
+  - curl=7.65.3=hf8cf82a_0
+  - eccodes=2.12.3=h4fa793d_1
+  - esmf=7.1.0=h9eb252b_1005
+  - expat=2.2.5=he1b5a44_1003
+  - fftw=3.3.8=nompi_h7f3a6c3_1106
+  - gsl=2.5=h294904e_0
+  - hdf4=4.2.13=h9a582f1_1002
+  - hdf5=1.10.4=nompi_h3c11f04_1106
+  - icu=64.2=he1b5a44_0
+  - jasper=1.900.1=h07fcdf6_1006
+  - jpeg=9c=h14c3975_1001
+  - krb5=1.16.3=h05b26f9_1001
+  - libaec=1.0.4=hf484d3e_0
+  - libblas=3.8.0=11_openblas
+  - libcblas=3.8.0=11_openblas
+  - libcurl=7.65.3=hda55be3_0
+  - libedit=3.1.20170329=hf8c457e_1001
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libgfortran-ng=7.3.0=hdf63c60_0
+  - libiconv=1.15=h516909a_1005
+  - liblapack=3.8.0=11_openblas
+  - libnetcdf=4.6.2=hbdf4f91_1001
+  - libopenblas=0.3.6=h6e990d7_6
+  - libpng=1.6.37=hed695b0_0
+  - libssh2=1.8.2=h22169c7_2
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - libxml2=2.9.9=hee79883_2
+  - mpi=1.0=mpich
+  - mpich=3.2.1=hc99cbb1_1013
+  - nco=4.8.1=h50f80bc_100
+  - ncurses=6.1=hf484d3e_1002
+  - netcdf-fortran=4.4.5=hea25ff8_1000
+  - openssl=1.1.1c=h516909a_0
+  - ossuuid=1.6.2=hf484d3e_1000
+  - proj4=6.1.0=he751ad9_2
+  - readline=8.0=hf8c457e_0
+  - sqlite=3.29.0=hcee41ef_0
+  - tempest-remap=2.0.3=h5f743cb_1
+  - tk=8.6.9=hed695b0_1002
+  - udunits2=2.2.27.6=h4e0c4b3_1001
+  - xz=5.2.4=h14c3975_1001
+  - zlib=1.2.11=h516909a_1005
+prefix: /apps/share64/debian7/anaconda/anaconda-6/envs/cdo_nco_anaconda_6
+
