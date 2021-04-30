@@ -1,0 +1,17 @@
+name: icepyx-anaconda6
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - icepyx
+  - ipywidgets
+  - matplotlib
+  - numpy
+  - python=3.7.7
+  - scipy
+  - pip:
+    - filelock==3.0.12
+    - hublib==0.9.96
+    - joblib==1.0.1
+    - pint==0.17
+prefix: /apps/share64/debian10/anaconda/anaconda-6/envs/icepyx-anaconda6
