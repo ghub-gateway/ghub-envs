@@ -1,12 +1,16 @@
-name: icepyx-anaconda6
+name: icepyx-new
 channels:
   - conda-forge
   - defaults
 dependencies:
+  - cdo
   - icepyx
+  - ipykernel
   - ipywidgets
   - matplotlib
+  - netCDF4
   - numpy
+  - pynco
   - python=3.7.7
   - scipy
   - pip:
@@ -14,4 +18,4 @@ dependencies:
     - hublib==0.9.96
     - joblib==1.0.1
     - pint==0.17
-prefix: /apps/share64/debian10/anaconda/anaconda-6/envs/icepyx-anaconda6
+prefix: /apps/share64/debian10/anaconda/anaconda-6/envs/icepyx-new
