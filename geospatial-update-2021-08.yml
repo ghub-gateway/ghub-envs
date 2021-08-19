@@ -1,0 +1,43 @@
+name: geospatial-update-2021-08
+channels:
+  - conda-forge
+  - defaults
+  - ncar
+dependencies:
+  - cartopy
+  - cdo
+  - gdal
+  - geocat-viz
+  - geopandas
+  - georaster
+  - geos
+  - geotiff
+  - h5py
+  - hdf4
+  - hdf5
+  - icepyx
+  - ipykernel
+  - ipywidgets
+  - matplotlib
+  - nco
+  - netCDF4
+  - numpy
+  - pandas
+  - pip
+  - proj
+  - pynco
+  - pyproj
+  - python=3.7.7
+  - pyyaml
+  - rasterio
+  - rasterstats
+  - scipy
+  - shapely
+  - xarray
+  - pip:
+    - filelock
+    - globus-sdk==2.0.1
+    - hublib==0.9.96
+    - joblib
+    - pint
+#prefix: /apps/share64/debian10/anaconda/anaconda-6/envs/icepyx-new
