@@ -1,4 +1,4 @@
-name: geospatial-update-2021-08
+name: geospatial-2021-08
 channels:
   - conda-forge
   - defaults
@@ -6,6 +6,8 @@ channels:
 dependencies:
   - cartopy
   - cdo
+  - curl=7.75.0
+  - filelock
   - gdal
   - geocat-viz
   - geopandas
@@ -16,28 +18,45 @@ dependencies:
   - hdf4
   - hdf5
   - icepyx
+  - intake-xarray
+  - intake-stac
   - ipykernel
   - ipywidgets
+  - isce2
+  - joblib
   - matplotlib
   - nco
   - netCDF4
   - numpy
   - pandas
+  - pint
   - pip
   - proj
   - pynco
   - pyproj
   - python=3.7.7
   - pyyaml
+  - qgis
   - rasterio
   - rasterstats
+  - rioxarray
+  - sat-search
+  - sat-stac
+  - scikit-image
+  - scikit-learn
   - scipy
   - shapely
   - xarray
   - pip:
-    - filelock
-    - globus-sdk==2.0.1
-    - hublib==0.9.96
-    - joblib
-    - pint
-#prefix: /apps/share64/debian10/anaconda/anaconda-6/envs/icepyx-new
+    - aiohttp
+    - boto3
+    - carst
+    - fsspec
+    - globus-sdk
+    - h5netcdf
+    - hublib
+    - ipyleaflet
+    - ipympl
+    - openpyxl
+    - progressbar2
+    - xlrd
