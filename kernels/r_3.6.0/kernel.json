@@ -1,0 +1,14 @@
+{"argv": [
+   "/apps/share64/debian10/anaconda/anaconda-6/envs/r_3.6.0/bin/R", 
+   "--slave", 
+   "-e", 
+   "IRkernel::main()", 
+   "--args", 
+   "{connection_file}"
+ ],
+ "display_name":"R 3.6.1",
+ "language":"R",
+ "env": {
+   "PATH":"/apps/share64/debian10/anaconda/anaconda-6/envs/r_3.6.0/bin:/apps/share64/debian10/anaconda/anaconda-6/bin:/apps/jupyter6deb10/r6/bin:/usr/bin:/bin:/usr/bin/X11:/sbin:/usr/sbin"
+ }
+}

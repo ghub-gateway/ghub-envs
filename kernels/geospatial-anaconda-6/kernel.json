@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/apps/share64/debian10/anaconda/anaconda-6/envs/geospatial-2021-09/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "geospatial-plus python3",
+ "language": "python",
+ "env": {
+    "PATH": "/apps/share64/debian10/anaconda/anaconda-6/envs/geospatial-2021-09/bin:/apps/share64/debian10/anaconda/anaconda-6/bin:/apps/jupyter6deb10/r6/bin:/bin:/usr/bin:/usr/bin/X11:/sbin:/usr/sbin:/apps/bin"
+ }
+}

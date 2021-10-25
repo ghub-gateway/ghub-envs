@@ -1,0 +1,18 @@
+{
+    "argv": [
+            "/apps/share64/debian10/anaconda/anaconda-6/envs/octave_anaconda_6/bin/python",
+            "-m",
+            "octave_kernel",
+            "-f",
+            "{connection_file}"
+    ],
+    "display_name": "Octave 4.2.1",
+    "codemirror_mode": "Octave",
+    "language": "octave",
+    "mimetype": "text/x-octave",
+    "name": "octave",
+    "env": {
+	    "OCTAVE_EXECUTABLE":"/apps/share64/debian10/anaconda/anaconda-6/envs/octave_anaconda_6/bin/octave-cli",
+   	    "PATH":"/apps/share64/debian10/anaconda/anaconda-6/envs/octave_anaconda_6/bin:/apps/share64/debian10/anaconda/anaconda-6/bin:/apps/jupyter6deb10/r6/bin:/usr/bin:/bin:/usr/bin/X11:/sbin:/usr/sbin"
+    }
+ }

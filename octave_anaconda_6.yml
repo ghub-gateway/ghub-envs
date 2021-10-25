@@ -127,5 +127,4 @@ dependencies:
   - zeromq=4.3.2=he1b5a44_2
   - zlib=1.2.11=h516909a_1006
   - zstd=1.4.0=h3b9ef0a_0
-prefix: /apps/share64/debian7/anaconda/anaconda-6/envs/octave_anaconda_6
-
+prefix: /apps/share64/debian10/anaconda/anaconda-6/envs/octave_anaconda_6
